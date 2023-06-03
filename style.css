@@ -1,0 +1,22 @@
+.container{
+
+    margin-top: 40px;
+}
+
+.card-img-overlay{
+
+    background-color: rgba(57, 55, 55, 0.6)
+
+}
+
+.card.bg-dark{
+   margin-bottom: 20px;
+}
+
+.head{
+
+  text-align: center;
+
+}
+
+
